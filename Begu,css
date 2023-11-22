@@ -1,16 +1,13 @@
-body {
-    font-family: Arial, sans-serif;
+body{
+backgournd-color:lightgreen;
+text-align:center;
+font-family:Arail,san-serif;
+
 }
 
-#toolbar {
-    padding: 10px;
-    background-color: #eee;
-}
+h1{
+color:nary;
+margin-top:50rpx;
 
-button {
-    margin-right: 10px;
-}
 
-canvas {
-    border: 1px solid #000;
 }
