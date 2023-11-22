@@ -1,13 +1,10 @@
-body{
-background-color:lightgreen;
-text-align:center;
-font-family:Arial,san-serif;
-
+body {
+    background-color: lightgreen;
+    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
-h1{
-color:navy;
-margin-top:50rpx;
-
-
+h1 {
+    color: navy;
+    margin-top: 50px;
 }
